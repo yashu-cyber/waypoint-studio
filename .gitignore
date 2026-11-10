@@ -1,0 +1,13 @@
+# Gradle generated files
+.gradle/
+build/
+
+# Compiled Java files
+out/
+*.class
+
+# VS Code workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
